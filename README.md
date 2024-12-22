@@ -18,7 +18,9 @@ Pure and compositional bilayers.
   - Analysis scripts including APL, RDF, torsion and angle analysis, etc. can be found here [].
 
 
+## To-dos
 * Add cutoff and water tests.
 * Add control descriptions.
 * Zenodo DOIs will contain additional info on OpenFF-specific mods (e.g. cutoff) since that is where it is relevant.
 * Add mapping files + NMR ref
+* Add a pic
