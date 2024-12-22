@@ -15,7 +15,7 @@ Pure and compositional bilayers.
   - Lipid directories contain equilibration and production MD files in addition to topologies before and after refit.
   - Initial bilayer structures were built using OpenFF Interchange pdb structures in Packmol.
 	- This workflow can be found here [].
-  - Analysis scripts including APL, RDF, torsion and angle analysis, etc. can be found here [].
+  - Analysis scripts including APL, RDF, torsion and angle analysis, etc. can be found here [[OpenFF Bilayer](https://github.com/PEFrankel/OpenFF-Bilayer)].
 
 
 ## To-dos
