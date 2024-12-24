@@ -1,5 +1,3 @@
-# mapping file for POPC smiles string : [C@](COP(=O)([O-])OCC[N+](C)(C)C)([H])(OC(CCCCCCC/C=C\CCCCCCCC)=O)COC(CCCCCCCCCCCCCCC)=O
-
 M_G1_M:
   ATOMNAME: C26x
   FRAGMENT: glycerol backbone
